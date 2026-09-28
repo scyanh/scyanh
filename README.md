@@ -1,6 +1,6 @@
 ### Hi, I'm Alberto 👋
 
-Software engineer in Mexico building **[Tlanova](https://tlanova.com)** end to end: the Go backend, the Flutter apps, the React admin, and an AI ordering assistant running on Google Cloud.
+Software engineer at **PwC** in Mexico. On the side I build **Tlanova** end to end: the Go backend, the Flutter apps, the React admin, and an AI ordering assistant running on Google Cloud.
 
 - 🧠 **AI agents** with Google ADK + Gemini: tool-calling, multi-agent flows, long-term memory, voice (Speech-to-Text / Text-to-Speech) and evals
 - ⚙️ **Backends** in Go (Gin, GORM, PostgreSQL) serving REST APIs on Cloud Run
@@ -42,4 +42,3 @@ Software engineer in Mexico building **[Tlanova](https://tlanova.com)** end to e
 #### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-torresgil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresgil)
-[![Tlanova](https://img.shields.io/badge/Web-tlanova.com-111111?style=flat)](https://tlanova.com)
