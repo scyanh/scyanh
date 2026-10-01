@@ -13,10 +13,9 @@ Software engineer at **PwC** in Mexico. On the side I build **Tlanova** end to e
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Tlanova AI assistant** | Voice and chat assistant that lets customers order food in Mexican Spanish: browses menus, applies promos, checks delivery coverage, and remembers preferences between conversations | Python · Google ADK · Gemini · FastAPI · Cloud SQL |
-| **Tlanova backend** | Shared REST API for orders, restaurants, bookings and payments, with city-timezone-aware slot booking | Go · Gin · GORM · PostgreSQL · Cloud Run |
-| **Tlanova apps** | Customer, courier and business apps plus a multi-role web dashboard | Flutter · React · Vite · TypeScript · Firebase |
-| **Multi-agent systems** | Nanodegree projects: prompt chaining, routing, and orchestrator/worker agents graded by automated tests | Google ADK · Vertex AI · Gemini |
+| **Tlanova** | Food ordering platform built end to end: a voice and chat AI assistant that takes orders in Mexican Spanish (menus, promos, delivery coverage, remembered preferences), a shared REST API for orders, restaurants, bookings and payments, and customer, courier and business apps plus a multi-role web dashboard | Python · Google ADK · Gemini · FastAPI · Go · Gin · PostgreSQL · Flutter · React · Cloud Run · Firebase |
+| **[AI Tutor Essay](https://github.com/scyanh/ai_tutor_essay)** | Essay tutoring platform for high school teachers and students: a multi-agent tutor (research, structure and style agents) guides students through their essays, with RAG over course material, assignments, rubrics and teacher review | Python · Google ADK · Gemini · Vertex AI Search · PostgreSQL · GCS · React · TypeScript |
+| **[Multi-agent systems](https://github.com/scyanh/google_agentic)** | Nanodegree projects: prompt chaining, routing, and orchestrator/worker agents graded by automated tests | Google ADK · Vertex AI · Gemini |
 
 <sub>Most of this work lives in private repositories, which is why the contribution graph is busier than the public repo list.</sub>
 
