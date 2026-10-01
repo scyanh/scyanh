@@ -15,6 +15,7 @@ Software engineer at **PwC** in Mexico. On the side I build **Tlanova** end to e
 |---|---|---|
 | **Tlanova** | Food ordering platform built end to end: a voice and chat AI assistant that takes orders in Mexican Spanish (menus, promos, delivery coverage, remembered preferences), a shared REST API for orders, restaurants, bookings and payments, and customer, courier and business apps plus a multi-role web dashboard | Python · Google ADK · Gemini · FastAPI · Go · Gin · PostgreSQL · Flutter · React · Cloud Run · Firebase |
 | **[AI Tutor Essay](https://github.com/scyanh/ai_tutor_essay)** | Essay tutoring platform for high school teachers and students: a multi-agent tutor (research, structure and style agents) guides students through their essays, with RAG over course material, assignments, rubrics and teacher review | Python · Google ADK · Gemini · Vertex AI Search · PostgreSQL · GCS · React · TypeScript |
+| **[Flower Image Classifier](https://github.com/scyanh/image_classifier_tensorflow)** | Deep learning model that recognizes 102 flower species from a photo: transfer learning on MobileNetV2, 78.7% accuracy on 6,149 held-out test images, and a command-line app that returns the top-K predictions | Python · TensorFlow · Keras · TensorFlow Hub · Jupyter · Colab Enterprise |
 | **[Multi-agent systems](https://github.com/scyanh/google_agentic)** | Nanodegree projects: prompt chaining, routing, and orchestrator/worker agents graded by automated tests | Google ADK · Vertex AI · Gemini |
 
 <sub>Most of this work lives in private repositories, which is why the contribution graph is busier than the public repo list.</sub>
@@ -25,6 +26,8 @@ Software engineer at **PwC** in Mexico. On the side I build **Tlanova** end to e
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
