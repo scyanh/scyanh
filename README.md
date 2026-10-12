@@ -4,7 +4,7 @@ Software engineer at **PwC** in Mexico. On the side I build **Tlanova** end to e
 
 - 🧠 **AI agents** with Google ADK + Gemini: tool-calling, multi-agent flows, long-term memory, voice (Speech-to-Text / Text-to-Speech) and evals
 - 🔬 **Machine learning** with TensorFlow and Keras: transfer learning for image classification, `tf.data` pipelines, trained and evaluated in Jupyter and Colab Enterprise
-- 📊 **Data pipelines** on Google Cloud: streaming with Pub/Sub and Dataflow, SQL transformations in BigQuery with Dataform, and dashboards in Data Studio
+- 📊 **Data pipelines** on Google Cloud: Dataflow, transformations with Apache Beam, and dashboards in Looker Studio
 - ⚙️ **Backends** in Go (Gin, GORM, PostgreSQL) and Python (FastAPI) serving REST APIs on Cloud Run
 - 📱 **Mobile** with Flutter: 3 production apps on iOS (App Store) and 3 on Android (Google Play), sharing one backend, with Stripe payments and maps
 - 🎓 Completed Udacity's **Google Agentic AI Engineer** Nanodegree (2026)
